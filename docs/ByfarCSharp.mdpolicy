@@ -8,6 +8,8 @@
   <VersionControlPolicy />
   <CSharpFormattingPolicy scope="text/x-csharp">
     <IndentSwitchSection>False</IndentSwitchSection>
+    <NewLinesForBracesInTypes>False</NewLinesForBracesInTypes>
+    <NewLinesForBracesInMethods>False</NewLinesForBracesInMethods>
     <NewLinesForBracesInProperties>False</NewLinesForBracesInProperties>
     <NewLinesForBracesInAccessors>False</NewLinesForBracesInAccessors>
     <NewLinesForBracesInAnonymousMethods>False</NewLinesForBracesInAnonymousMethods>
@@ -21,9 +23,6 @@
     <NewLineForMembersInObjectInit>False</NewLineForMembersInObjectInit>
     <NewLineForMembersInAnonymousTypes>False</NewLineForMembersInAnonymousTypes>
     <NewLineForClausesInQuery>False</NewLineForClausesInQuery>
-    <SpacingAfterMethodDeclarationName>True</SpacingAfterMethodDeclarationName>
-    <SpaceAfterMethodCallName>True</SpaceAfterMethodCallName>
-    <SpaceBeforeOpenSquareBracket>True</SpaceBeforeOpenSquareBracket>
   </CSharpFormattingPolicy>
   <NameConventionPolicy>
     <Rules>
